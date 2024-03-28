@@ -1,0 +1,116 @@
+.ankers{
+    color: black;
+}
+@media screen and (max-width:1279px) and (min-width:769px){
+    .ankers{
+        color: black;
+    }
+}
+@media screen and (max-width:768px) and (min-width:481px){
+    .ankers{
+        color: black;
+    }
+}
+@media screen and (max-width:480px) and (min-width:0px){
+    .ankers{
+        display: none;
+    }
+}
+
+.service{
+    color: black;
+}
+@media screen and (max-width:1279px) and (min-width:769px){
+    .service{
+        color: black;
+    }
+}
+@media screen and (max-width:768px) and (min-width:481px){
+    .service{
+        color: black;
+    }
+}
+@media screen and (max-width:480px) and (min-width:0px){
+    .service{
+        display: none;
+    }
+}
+
+.contact{
+    color: black;
+}
+@media screen and (max-width:1279px) and (min-width:769px){
+    .contact{
+        color: black;
+    }
+}
+@media screen and (max-width:768px) and (min-width:481px){
+    .contact{
+        color: black;
+    }
+}
+@media screen and (max-width:480px) and (min-width:0px){
+    .contact{
+        display: none;
+    }
+}
+
+
+.icon{
+    color: black;
+}
+@media screen and (min-width:1280px) {
+    .icon{
+        display: none;
+    }
+}
+@media screen and (max-width:1279px) and (min-width:769px){
+    .icon{
+        display: none;
+    }
+}
+@media screen and (max-width:768px) and (min-width:481px){
+    .icon{
+        display: none;
+    }
+}
+@media screen and (max-width:480px) and (min-width:0px){
+    .icon{
+        color: black;
+    }
+}
+
+.txt4{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#id1{
+    background: linear-gradient(90deg, #EFEDE8, #F2E131);;
+}
+
+.txt6{
+    background: linear-gradient(90deg, #177DC3, #EDEDED);
+}
+
+.txt7{
+    width: 160px;
+    height: 50px;
+    padding: 0;
+}
+.txt8{
+    width: 300px;
+    height: 50px;
+}
+
+.txt10{
+    font-size: 40px;
+    font-weight: bold;
+}
+.txt13{
+    font-size: 13px;
+}
+.txt15{
+    font-size: 40px;
+    font-weight: bold;
+}
